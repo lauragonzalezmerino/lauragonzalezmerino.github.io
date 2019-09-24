@@ -1,6 +1,6 @@
 /* style.css */
 
-.count: {
+.count {
 	font-size: 50px;
 }
 
@@ -22,6 +22,15 @@ a {
   }
 }
 
-span.count {
-	font-size:20px;
+
+.explanation {
+	background-color: black;
+}
+
+.collections {
+	background-color: gray;
+}
+
+.acknowledgements {
+	background-color: white;
 }
