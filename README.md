@@ -7,7 +7,6 @@
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
-
 			gtag('config', 'UA-148605332-1');
 		</script>
 		<title> Laura's Nail Polish Collection </title>
