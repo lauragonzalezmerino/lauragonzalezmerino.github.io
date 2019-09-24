@@ -1,5 +1,9 @@
 /* style.css */
 
+.count: {
+	font-size: 50px;
+}
+
 p {
 	color: rgb(255,0,0);
 }
@@ -16,4 +20,8 @@ a {
   body {
     background-color: black;
   }
+}
+
+span.harry {
+	font-size:20px;
 }
