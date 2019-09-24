@@ -1,0 +1,13 @@
+/* style.css */
+
+p {
+	color: rgb(255,0,0);
+}
+
+a {
+	color: rgb(150,100,150);
+}
+
+li.menu:hover {
+	background-color: green;
+}
