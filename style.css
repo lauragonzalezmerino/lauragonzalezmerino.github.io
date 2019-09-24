@@ -8,6 +8,12 @@ a {
 	color: rgb(150,100,150);
 }
 
-li.menu:hover {
-	background-color: green;
+.menu:hover {
+	background-color: lightgray;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: black;
+  }
 }
